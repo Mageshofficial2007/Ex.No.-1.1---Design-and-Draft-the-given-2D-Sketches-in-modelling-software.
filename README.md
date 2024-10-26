@@ -42,7 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-[MAGESH BOOPATHI.M ED&M EXP 1.pdf](https://github.com/user-attachments/files/17444883/MAGESH.BOOPATHI.M.ED.M.EXP.1.pdf)
+![Screenshot 2024-10-26 093808](https://github.com/user-attachments/assets/8ddd690a-5444-4895-8bb5-b9f56ffa6d48)
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
